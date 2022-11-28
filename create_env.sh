@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 
 conda create -n lamda# python=3.10 mamba -c conda-forge
 conda activate lamda#
