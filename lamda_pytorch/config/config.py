@@ -116,7 +116,7 @@ class CFG:
     )
 
     save_to_path: Optional[str] = field(
-        default="''", 
+        default="'/zshares/dagdasbrunnr/home/public/imbris/LaMDA-pytorch/data'", 
         metadata={"help": "Save the dataset to local disk."}
     )
 
